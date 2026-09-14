@@ -1841,7 +1841,7 @@ This can dramatically reduce computational cost.
 
 | Concept | Mathematical Form | Main Idea |
 |---|---|---|
-| Rank | $(\operatorname{rank}(A))$ | Dimension of row/column space |
+| Rank | $(\mathrm{rank}(A))$ | Dimension of row/column space |
 | Rank-1 matrix | $(uv^T)$ | Outer product |
 | Low-rank approximation | $(A\approx A_k)$ | Approximate with small rank |
 | SVD | $(A=U\Sigma V^T)$ | Orthogonal-scale-orthogonal factorization |
