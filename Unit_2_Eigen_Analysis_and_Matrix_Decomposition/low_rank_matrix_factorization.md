@@ -1976,7 +1976,7 @@ $$
 where
 
 $$
-\operatorname{rank}(A_k)=k
+\mathrm{rank}(A_k)=k
 $$
 
 and $(k)$ is substantially smaller than the dimensions of $(A)$.
